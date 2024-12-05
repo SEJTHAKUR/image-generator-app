@@ -1,4 +1,5 @@
-# 🖼️ Image Generator App  
+# 🖼️ Image Generator App 
+## Project link - [*Image Generator application*](https://imagegeneratorbysejjj.netlify.app/)
 A browser-based image search engine that fetches stunning photos from Unsplash using the Unsplash API. Developed with **HTML**, **CSS**, and **JavaScript**, this project demonstrates effective API integration, dynamic UI updates, and responsive grid-based design.  
 
 ---
